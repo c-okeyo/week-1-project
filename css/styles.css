@@ -1,0 +1,14 @@
+p{
+    color: black;
+    font-style: italic;
+}
+#second-header {
+    color: aquamarine;
+}
+.about-me{
+    color: yellow;
+}
+body{
+    background-image:url('images/logo.jfif');
+    background-repeat: no-repeat;
+}
