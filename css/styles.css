@@ -3,8 +3,8 @@ p{
     }
 
 body{
-    background-image:url('images/Background.jfif');
-    background-repeat: repeat;
+    background-repeat: no-repeat;
+    background-size: unset;
     background-color:wheat;
      }
 footer {
@@ -14,7 +14,8 @@ footer {
     color: blue;
     text-transform: capitalize;
     text
-  }
+      }
+
   h3 {
     color: rgb(206, 50, 99);
-  }
+      }
