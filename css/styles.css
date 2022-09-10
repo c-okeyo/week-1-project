@@ -1,18 +1,20 @@
 p{
     color: black;
-    font-style: italic;
-}
-#second-header {
-    color: aquamarine;
-}
-.about-me{
-    color: yellow;
-}
+    }
+
 body{
     background-image:url('images/Background.jfif');
-    background-repeat: no-repeat;
-    background-color: blue;
-}
+    background-repeat: repeat;
+    background-color:wheat;
+     }
 footer {
     display: block;
+  }
+  h1 {
+    color: blue;
+    text-transform: capitalize;
+    text
+  }
+  h3 {
+    color: rgb(206, 50, 99);
   }
