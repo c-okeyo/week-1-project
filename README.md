@@ -1,6 +1,4 @@
-# My Name
-
-# About Me
+# Portfolio Name
 
 ### Education background and Work Experience
 
@@ -16,9 +14,10 @@
 
 # Projects Portfolio
 
-<ol>
-    <li>My portfolio  href="https://github.com/c-okeyo/week-1-project"</li>
-    <li>Deployment of Safaricom Nakuru and Kisumu Nokia Cloud SGSNs and MME</li>
-    <li>Deployment of Safaricom QOA Cloud GGSN, S-GW, & P-GW</li>
-    <li>Optimization of Safaricom enterprise network</li>
-    <li>Alignment of new technology monitoring processes and systems</li>
+<p>Below, a list of projects that I have successfully handled.</p>
+    <ol>
+        <li>My portfolio  href="https://c-okeyo.github.io/week-1-project/"</li>
+        <li>Deployment of Safaricom Nakuru and Kisumu Nokia Cloud SGSNs and MME</li>
+        <li>Deployment of Safaricom QOA Cloud GGSN, S-GW, & P-GW</li>
+        <li>Optimization of Safaricom enterprise network</li>
+        <li>Alignment of new technology monitoring processes and systems</li>
