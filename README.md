@@ -1,2 +1,8 @@
-# week-1-project
-week-1-Assignment 
+# Name
+
+# About Me
+
+### Education background and Work Experience
+### Why Software Develpment 
+### Hobbies
+

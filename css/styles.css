@@ -1,13 +1,14 @@
 p{
     color: black;
-    }
+    text-emphasis-color: red;
+      }
 
 body{
     background-repeat: no-repeat;
     background-size: unset;
     background-color:wheat;
      }
-     
+
 footer {
     display: block;
   }
@@ -18,4 +19,5 @@ h1 {    color: blue;
 
 h3 {
     color: rgb(206, 50, 99);
+    
       }
