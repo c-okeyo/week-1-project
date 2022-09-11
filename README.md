@@ -2,23 +2,27 @@
 
 ### Education background and Work Experience
 
-<p>I am electrical and systems engineer skilled in solution architecting, cloud technology, agile methodologies, entreprise architectures, product and network design and network administration. Currently, I am finding my footing in software development</p>
+<p>This portfolio dscribes the author's education and proffessional background, highlighing the projects the author has participated in or implemented</p>
 
 ### Why Software Develpment
 
-<p>I am greatly fascinated by distributed systems and the ideas behind their inter-connections. However, I have found it to be necessaritly not enough. It is the drive to know the specifics of different working solutions that has aroused my desire to try this murky waters. I beleive there is strength in understanding solutions end to end, right from conceptualizing the customers requirements, interperting the technical implications, designing the solution, to developing the right and working solution. The latter is the gap I am seeking to bridge.</p>
+<p>This area highlights the reasons why the author decided to take up software enginering.</p>
 
 ### Hobbies
 
-<p>I enjoy reading and gaming. Besides, I have lots of love for soccer and basketball. I am an avid fan of <strong><em> Liverpool FC and Lakers Basketball team.</em> </strong> </p>
+<p>This part highlights the various activities for which the author takes keen interest in</p>
 
 # Projects Portfolio
 
-<p>Below, a list of projects that I have successfully handled.</p>
-    <ol>
+<p>This part highlights various projects which the auothor has successfully completed successfully either individually or as a group</p>
+<ol>
         <li>My portfolio  href="https://c-okeyo.github.io/week-1-project/"</li>
         <li>Deployment of Safaricom Nakuru and Kisumu Nokia Cloud SGSNs and MME</li>
         <li>Deployment of Safaricom QOA Cloud GGSN, S-GW, & P-GW</li>
         <li>Optimization of Safaricom enterprise network</li>
         <li>Alignment of new technology monitoring processes and systems</li>
-    </ol>
+ </ol>
+
+## Link to Live Site on GitHub Pages
+
+<p> To navigate to the live site on GitHub Pages, [click here](https://c-okeyo.github.io/week-1-project)
