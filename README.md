@@ -1,4 +1,4 @@
-# Name
+# My Name
 
 # About Me
 
@@ -8,7 +8,11 @@
 
 ### Why Software Develpment
 
+<p>I am greatly fascinated by distributed systems and the ideas behind their inter-connections. However, I have found it to be necessaritly not enough. It is the drive to know the specifics of different working solutions that has aroused my desire to try this murky waters. I beleive there is strength in understanding solutions end to end, right from conceptualizing the customers requirements, interperting the technical implications, designing the solution, to developing the right and working solution. The latter is the gap I am seeking to bridge.</p>
+
 ### Hobbies
+
+<p>I enjoy reading and gaming. Besides, I have lots of love for soccer and basketball. I am an avid fan of <strong><em> Liverpool FC and Lakers Basketball team.</em> </strong> </p>
 
 # Projects Portfolio
 
