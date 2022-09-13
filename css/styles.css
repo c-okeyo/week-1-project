@@ -1,6 +1,15 @@
 p{
     color: black;
     text-emphasis-color: red;
+    
+      }
+.projectlist{
+        font-style: italic;
+      }
+
+.boldcolor{
+        font-style: italic;
+        color: rebeccapurple;
       }
 
 body{
@@ -13,11 +22,12 @@ footer {
     display: block;
   }
 
-h1 {    color: blue;
-    text-transform: capitalize;
+h1 { color: blue;
+     text-transform: capitalize;
+    
 }
 
 h3 {
     color: rgb(206, 50, 99);
-    
+    font-style: italic;
       }
